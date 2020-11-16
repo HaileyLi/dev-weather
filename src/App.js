@@ -10,6 +10,7 @@ const api = {
 
 // main App component
 function App() {
+  // To add more cities in future, push more elements in cityList
   const cityList = ["Sydney", "Melbourne", "Wollongong"]
 
   // react hook
@@ -34,6 +35,7 @@ function App() {
       });
   }
 
+  // handle select change
   const handleCityChange = (e) => {
     setCity(e.target.value)
     setLoading(true)
