@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dev-weather/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dev-weather/static/js/main.8c001d38.chunk.js",
+    "main.js.map": "/dev-weather/static/js/main.8c001d38.chunk.js.map",
+    "runtime-main.js": "/dev-weather/static/js/runtime-main.8090a1d5.js",
+    "runtime-main.js.map": "/dev-weather/static/js/runtime-main.8090a1d5.js.map",
+    "static/js/2.ffa3e5a4.chunk.js": "/dev-weather/static/js/2.ffa3e5a4.chunk.js",
+    "static/js/2.ffa3e5a4.chunk.js.map": "/dev-weather/static/js/2.ffa3e5a4.chunk.js.map",
+    "static/js/3.bd1e5bd0.chunk.js": "/dev-weather/static/js/3.bd1e5bd0.chunk.js",
+    "static/js/3.bd1e5bd0.chunk.js.map": "/dev-weather/static/js/3.bd1e5bd0.chunk.js.map",
+    "index.html": "/dev-weather/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dev-weather/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ffa3e5a4.chunk.js.LICENSE.txt": "/dev-weather/static/js/2.ffa3e5a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8090a1d5.js",
+    "static/js/2.ffa3e5a4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8c001d38.chunk.js"
+  ]
+}
